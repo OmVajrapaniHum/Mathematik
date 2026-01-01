@@ -1,9 +1,9 @@
-PWD /home/jakob/Dokumente/Gnosis/Mathematik_Grundlagen_01
+PWD /home/jakob/Dokumente/Gnosis/Mathematik/Grundlagen/001_Elementare_Gleichungen
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/jakob/Dokumente/Gnosis/Mathematik_Grundlagen_01/Elementare_Gleichungen.tex
+INPUT /home/jakob/Dokumente/Gnosis/Mathematik/Grundlagen/001_Elementare_Gleichungen/Elementare_Gleichungen.tex
 OUTPUT Elementare_Gleichungen.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
