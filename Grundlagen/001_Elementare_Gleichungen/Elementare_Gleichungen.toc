@@ -1,7 +1,7 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{\numberline {1}Einführung}{1}{}%
 \contentsline {subsection}{\numberline {1.1}Aufgaben}{1}{}%
-\contentsline {subsubsection}{\numberline {I.}Löse die folgenden Glleichungen:}{1}{}%
+\contentsline {subsubsection}{\numberline {I.}Löse die folgenden Gleichungen:}{1}{}%
 \contentsline {section}{\numberline {2}Negative Zahlen}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Aufgaben zu Kapitel 2.1 bis 2.3 \\ - Was sind negative Zahlen? \\ - Negative Zahlen im Alltag \\ - Addition mit negativen Zahlen}{2}{}%
 \contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Summen:}{2}{}%
@@ -9,12 +9,12 @@
 \contentsline {subsection}{\numberline {2.2}Aufgaben zu Kapitel 2.4 \\ - Substraktion mit negativen Zahlen}{4}{}%
 \contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Differenzen:}{4}{}%
 \contentsline {subsubsection}{\numberline {II.}Subtrahiere die benachbarten Zahlen (linke Zahl minus rechte Zahl) und schreibe das Ergebnis darüber. Mithilfe der obersten Zahl kann man erkennen, ob man richtig gerechnet hat.}{6}{}%
-\contentsline {subsection}{\numberline {2.3}Aufgaben zu Kapitel 2.5 \\ - Verschmelzung von Addition und Subtraktion}{6}{}%
-\contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Summen/Differenzen:}{6}{}%
-\contentsline {subsection}{\numberline {2.4}Aufgaben zu Kapitel 2.6 bis 2.8 \\ - Addition und Subtraktion mehrerer Zahlen \\ - Klammern subtrahieren und addieren \\ - Beispiele zur Addition und Subtraktion}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Aufgaben zu Kapitel 2.5 \\ - Verschmelzung von Addition und Subtraktion}{7}{}%
 \contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Summen/Differenzen:}{7}{}%
-\contentsline {subsubsection}{\numberline {II.}Berechne die folgenden Summen/Differenzen:}{8}{}%
-\contentsline {subsubsection}{\numberline {III.}Berechne:}{9}{}%
+\contentsline {subsection}{\numberline {2.4}Aufgaben zu Kapitel 2.6 bis 2.8 \\ - Addition und Subtraktion mehrerer Zahlen \\ - Klammern subtrahieren und addieren \\ - Beispiele zur Addition und Subtraktion}{8}{}%
+\contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Summen/Differenzen:}{8}{}%
+\contentsline {subsubsection}{\numberline {II.}Berechne die folgenden Summen/Differenzen:}{9}{}%
+\contentsline {subsubsection}{\numberline {III.}Berechne:}{10}{}%
 \contentsline {subsubsection}{\numberline {IV.}Schreibe übersichtlich und berechne:}{10}{}%
 \contentsline {subsection}{\numberline {2.5}Aufgaben zu Kapitel 2.9 bis 2.10 \\ - Multiplikation mit negativen Zahlen \\ - Division zweier Zahlen}{11}{}%
 \contentsline {subsubsection}{\numberline {I.}Berechne:}{11}{}%
@@ -25,9 +25,9 @@
 \contentsline {subsection}{\numberline {2.7}Aufgaben zu Kapitel 2.12 \\ - Wissenschaftliche Notation von Zahlen}{14}{}%
 \contentsline {subsubsection}{\numberline {I.}Berechne:}{14}{}%
 \contentsline {subsubsection}{\numberline {II.}Schreibe in wissenschaftlicher Notation:}{14}{}%
-\contentsline {section}{\numberline {3}Buchstabenrechnung}{14}{}%
-\contentsline {subsection}{\numberline {3.1}Aufagaben zu Kapitel 3.1 \\ - Addition und Subtraktion von Buchstaben}{14}{}%
-\contentsline {subsubsection}{\numberline {I.}Berechne:}{14}{}%
+\contentsline {section}{\numberline {3}Buchstabenrechnung}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Aufagaben zu Kapitel 3.1 \\ - Addition und Subtraktion von Buchstaben}{15}{}%
+\contentsline {subsubsection}{\numberline {I.}Berechne:}{15}{}%
 \contentsline {subsubsection}{\numberline {II.}Berechne:}{15}{}%
 \contentsline {subsubsection}{\numberline {III.}Berechne:}{16}{}%
 \contentsline {subsubsection}{\numberline {IV.}Berechne:}{16}{}%
@@ -48,3 +48,19 @@
 \contentsline {subsubsection}{\numberline {II.}Berechne:}{22}{}%
 \contentsline {subsubsection}{\numberline {III.}Vereinfache mithilfe der \textit {binomischen Formeln}:}{22}{}%
 \contentsline {subsubsection}{\numberline {IV.}Berechne mithilfe der \textit {dritten binomischen Formel}:}{22}{}%
+\contentsline {section}{\numberline {4}Gleichungen}{23}{}%
+\contentsline {subsection}{\numberline {4.1}Aufgaben zu Kapitel 4.1 bis 4.2 \\ - Die Methode \\ - Beispiele}{23}{}%
+\contentsline {subsubsection}{\numberline {I.}Löse die Aufgaben aus Kapitel 1 und mache die Probe.}{23}{}%
+\contentsline {subsubsection}{\numberline {II.}Löse die folgenden Gleichungen und mache die Probe.}{23}{}%
+\contentsline {subsubsection}{\numberline {III.}Löse die folgenden Gleichungen und mache die Probe.}{25}{}%
+\contentsline {subsubsection}{\numberline {IV.}Wenn man eine Zahl mit 11 malnimmt und dann 18 addiert, bekommt man 150. Welche Zahl ist es?}{27}{}%
+\contentsline {subsubsection}{\numberline {V.}Wenn man eine Zahl mit 13 malnimmt und dann 9 addiert oder wenn man die Zahl mit 9 malnimmt und dann 85 addiert, kommt dasselbe heraus. Welche Zahl ist es?}{27}{}%
+\contentsline {subsubsection}{\numberline {VI.}Löse die folgenden Gleichungen und mache die Probe.}{27}{}%
+\contentsline {subsubsection}{\numberline {VII.}Löse die folgenden Gleichungen:}{30}{}%
+\contentsline {subsubsection}{\numberline {VIII.}Löse die folgenden Gleichungen:}{31}{}%
+\contentsline {subsubsection}{\numberline {IX.}Ich denke mir eine Zahl. Wenn ich sie mit 5 multipliziere und dann 16 addiere, so erhalte ich 101. Welche Zahl ist es?}{32}{}%
+\contentsline {subsubsection}{\numberline {X.}Wenn man eine Zahl mit 7 multipliziert und dann 35 addiert, erhält man 63. Welche Zahl ist es?}{32}{}%
+\contentsline {subsubsection}{\numberline {XI.}Eine Zahl wird mit 8 multipliziert, dann wird 27 subtrahiert, und das ergibt 69. Welche Zahl ist es?}{32}{}%
+\contentsline {subsubsection}{\numberline {XII.}Wenn man eine Zahl mit -6 multipliziert und dann 58 subtrahiert, erhält man 50. Welche Zahl ist es?}{33}{}%
+\contentsline {subsubsection}{\numberline {XIII.}Wenn man das Vierfache einer Zahl um 1 vermindert, so bekommt man 146 abzüglich des Dreifachen der Zahl. Welche Zahl ist es?}{33}{}%
+\contentsline {subsubsection}{\numberline {XIV.}Wenn man die Summe des Doppelten einer Zahl und 5 vervierfacht, ergibt sich 92. Welche Zahl ist es?}{33}{}%
