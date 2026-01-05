@@ -67,3 +67,5 @@
 \contentsline {subsubsection}{\numberline {XV.}Löse die folgenden Gleichungen.}{33}{}%
 \contentsline {subsection}{\numberline {4.2}Aufgaben zu Kapitel 4.3 \\ - Addition von Brüchen mit Hilfe von Gleichungen}{35}{}%
 \contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Summen und Differenzen von Brüchen mithilfe von Gleichungen:}{35}{}%
+\contentsline {subsection}{\numberline {4.3}Aufgaben zu Kapitel 4.4 \\ - Bruchgleichungen}{36}{}%
+\contentsline {subsubsection}{\numberline {I.}Löse die folgenden Bruchgleichungen:}{36}{}%
