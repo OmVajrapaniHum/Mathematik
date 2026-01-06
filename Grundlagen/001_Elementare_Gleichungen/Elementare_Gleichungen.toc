@@ -69,3 +69,9 @@
 \contentsline {subsubsection}{\numberline {I.}Berechne die folgenden Summen und Differenzen von Brüchen mithilfe von Gleichungen:}{35}{}%
 \contentsline {subsection}{\numberline {4.3}Aufgaben zu Kapitel 4.4 \\ - Bruchgleichungen}{36}{}%
 \contentsline {subsubsection}{\numberline {I.}Löse die folgenden Bruchgleichungen:}{36}{}%
+\contentsline {subsubsection}{\numberline {II.}Löse die folgenden Bruchgleichungen:}{37}{}%
+\contentsline {subsubsection}{\numberline {III.}Löse die folgenden Bruchgleichungen:}{38}{}%
+\contentsline {subsubsection}{\numberline {IV.}Löse die folgenden Bruchgleichungen:}{39}{}%
+\contentsline {subsubsection}{\numberline {V.}Löse die folgenden Bruchgleichungen (d.h. finde x):}{40}{}%
+\contentsline {section}{\numberline {5}Anwendungen}{41}{}%
+\contentsline {subsection}{\numberline {5.1}Aufgaben zu Kapitel 5.1 \\ - Textaufgaben}{41}{}%
