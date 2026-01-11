@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.31)  6 JAN 2026 13:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.12.31)  11 JAN 2026 12:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -198,20 +198,20 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (./Elementare_Gleichungen.aux)
 \openout1 = `Elementare_Gleichungen.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -268,11 +268,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (./Elementare_Gleichungen.toc [1
@@ -281,55 +281,50 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write3
 \openout3 = `Elementare_Gleichungen.toc'.
 
- [3] [1] [2] [3] [4] [5]
-Overfull \hbox (1.43166pt too wide) in paragraph at lines 552--552
-[]\T1/cmr/bx/n/12 Subtrahiere die be-nach-bar-ten Zah-len (lin-ke Zahl mi-nus rech-te Zahl) und schrei-
- []
-
-[6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-Overfull \hbox (50.16922pt too wide) in paragraph at lines 1966--1969
+ [3] [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
+Overfull \hbox (50.16922pt too wide) in paragraph at lines 1964--1967
 []$\OT1/cmr/m/n/12 (3\OML/cmm/m/it/12 x \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 6\OML/cmm/m/it/12 y \OT1/cmr/m/n/12 + 2\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^A \OT1/cmr/m/n/12 (5\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + 3\OML/cmm/m/it/12 y\OT1/cmr/m/n/12 ) = 15\OML/cmm/m/it/12 x[] \OT1/cmr/m/n/12 + 9\OML/cmm/m/it/12 xy \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 30\OML/cmm/m/it/12 xy \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 18\OML/cmm/m/it/12 y[] \OT1/cmr/m/n/12 + 10\OML/cmm/m/it/12 xz \OT1/cmr/m/n/12 + 6\OML/cmm/m/it/12 yz \OT1/cmr/m/n/12 = []$ 
  []
 
 
-Overfull \hbox (26.04149pt too wide) in paragraph at lines 1970--1973
+Overfull \hbox (26.04149pt too wide) in paragraph at lines 1968--1971
 []$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 b \OT1/cmr/m/n/12 + 3\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^A \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 2\OML/cmm/m/it/12 b \OT1/cmr/m/n/12 + 3\OML/cmm/m/it/12 c\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 a[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ab \OT1/cmr/m/n/12 + 6\OML/cmm/m/it/12 ac \OT1/cmr/m/n/12 + 4\OML/cmm/m/it/12 b[] \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 12\OML/cmm/m/it/12 bc \OT1/cmr/m/n/12 + 9\OML/cmm/m/it/12 c[] \OT1/cmr/m/n/12 = []$ 
  []
 
 
-Overfull \hbox (44.1129pt too wide) in paragraph at lines 2034--2037
+Overfull \hbox (44.1129pt too wide) in paragraph at lines 2032--2035
 []$\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 a \OT1/cmr/m/n/12 + 3) \OMS/cmsy/m/n/12 ^^A \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 b \OT1/cmr/m/n/12 + 4) \OMS/cmsy/m/n/12 ^^A \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 c \OT1/cmr/m/n/12 + 5) = (\OML/cmm/m/it/12 ab \OT1/cmr/m/n/12 + 4\OML/cmm/m/it/12 a \OT1/cmr/m/n/12 + 3\OML/cmm/m/it/12 b \OT1/cmr/m/n/12 + 12) \OMS/cmsy/m/n/12 ^^A \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 c \OT1/cmr/m/n/12 + 5) = []$ 
  []
 
 [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
-Overfull \hbox (214.44518pt too wide) detected at line 3250
+Overfull \hbox (214.44518pt too wide) detected at line 3248
 [][]
  []
 
 [34] [35] [36] [37] [38] [39] [40]
-Overfull \hbox (1.16797pt too wide) in paragraph at lines 3645--3648
+Overfull \hbox (1.16797pt too wide) in paragraph at lines 3643--3646
 \T1/cmr/m/n/12 senen-ti-cket kos-tet dop-pelt so viel wie ein Kin-der-ticket. Die Fa-mi-lie zahlt ins-ge-samt $\OT1/cmr/m/n/12 32\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 50[]$\T1/cmr/m/n/12 .
  []
 
-[41] [42] [43] [44] [45] [46] (./Elementare_Gleichungen.aux)
+[41] [42] [43] [44] [45] [46] [47] [48] [49] (./Elementare_Gleichungen.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6306 strings out of 474222
- 102014 string characters out of 5748732
+ 6311 strings out of 474222
+ 102121 string characters out of 5748732
  1955975 words of memory out of 5000000
- 28492 multiletter control sequences out of 15000+600000
+ 28497 multiletter control sequences out of 15000+600000
  574905 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,406b,294s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Elementare_Gleichungen.pdf (49 pages, 339364 bytes).
+ 57i,11n,65p,408b,423s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Elementare_Gleichungen.pdf (52 pages, 370630 bytes).
 PDF statistics:
- 250 PDF objects out of 1000 (max. 8388607)
- 163 compressed objects within 2 object streams
+ 264 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

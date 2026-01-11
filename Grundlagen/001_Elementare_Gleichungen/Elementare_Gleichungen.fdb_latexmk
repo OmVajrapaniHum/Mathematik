@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1767701959.369 "/home/jakob/Dokumente/Gnosis/Mathematik/Grundlagen/001_Elementare_Gleichungen/Elementare_Gleichungen.tex" "Elementare_Gleichungen.pdf" "Elementare_Gleichungen" 1767701960.22468 0
+["pdflatex"] 1768132752.9633 "/home/jakob/Dokumente/Gnosis/Mathematik/Grundlagen/001_Elementare_Gleichungen/Elementare_Gleichungen.tex" "Elementare_Gleichungen.pdf" "Elementare_Gleichungen" 1768132753.79616 0
   "/etc/texmf/web2c/texmf.cnf" 1767178762.934 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/jakob/Dokumente/Gnosis/Mathematik/Grundlagen/001_Elementare_Gleichungen/Elementare_Gleichungen.tex" 1767701959.13755 94056 0eab73d0bbd0a33bec572b618dfa1355 ""
+  "/home/jakob/Dokumente/Gnosis/Mathematik/Grundlagen/001_Elementare_Gleichungen/Elementare_Gleichungen.tex" 1768132752.71888 101945 ff170a5d776adc35ed6044ab11b1d9ea ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbi1200.tfm" 1136768653 3072 ccae1a240ab272417e4399fe942df546 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -38,6 +38,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1248133631 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1248133631 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -93,9 +94,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1767179263.62718 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767179324 8212762 c3d1496926dce65d7e356323bbb4890c ""
-  "Elementare_Gleichungen.aux" 1767701960.138 11357 00ed1deea678ce4c6e139891ee83031b "pdflatex"
-  "Elementare_Gleichungen.tex" 1767701959.13755 94056 0eab73d0bbd0a33bec572b618dfa1355 ""
-  "Elementare_Gleichungen.toc" 1767701960.141 8132 060f8dc5144f8bb5d3be391bf5102197 "pdflatex"
+  "Elementare_Gleichungen.aux" 1768132753.70684 11636 171784900cfc0c6f671deb0dcc907a41 "pdflatex"
+  "Elementare_Gleichungen.tex" 1768132752.71888 101945 ff170a5d776adc35ed6044ab11b1d9ea ""
+  "Elementare_Gleichungen.toc" 1768132753.70916 8370 294aac09a3a72df6833a79d660d2233a "pdflatex"
   (generated)
   "Elementare_Gleichungen.aux"
   "Elementare_Gleichungen.log"
